@@ -1,0 +1,85 @@
+var annotated_dup =
+[
+    [ "detector", "namespacedetector.html", [
+      [ "is_detected", "structdetector_1_1is__detected.html", null ],
+      [ "is_detected< LOOKUP, void_t< LOOKUP< ARGS... > >, ARGS... >", "structdetector_1_1is__detected_3_01LOOKUP_00_01void__t_3_01LOOKUP_3_01ARGS_8_8_8_01_4_01_4_00_01ARGS_8_8_8_01_4.html", null ],
+      [ "type_switch", "structdetector_1_1type__switch.html", null ],
+      [ "type_switch< false, TRUE_TYPE, FALSE_TYPE >", "structdetector_1_1type__switch_3_01false_00_01TRUE__TYPE_00_01FALSE__TYPE_01_4.html", null ],
+      [ "type_switch< true, TRUE_TYPE, FALSE_TYPE >", "structdetector_1_1type__switch_3_01true_00_01TRUE__TYPE_00_01FALSE__TYPE_01_4.html", null ]
+    ] ],
+    [ "util", null, [
+      [ "cli", null, [
+        [ "ArgSet", "structutil_1_1cli_1_1ArgSet.html", "structutil_1_1cli_1_1ArgSet" ],
+        [ "GraphShape", "structutil_1_1cli_1_1GraphShape.html", null ],
+        [ "GraphStyle", "structutil_1_1cli_1_1GraphStyle.html", null ]
+      ] ],
+      [ "host", null, [
+        [ "DevBuf", "classutil_1_1host_1_1DevBuf.html", "classutil_1_1host_1_1DevBuf" ],
+        [ "DevObj", "classutil_1_1host_1_1DevObj.html", "classutil_1_1host_1_1DevObj" ]
+      ] ],
+      [ "iter", null, [
+        [ "ArrayIter", "structutil_1_1iter_1_1ArrayIter.html", null ],
+        [ "AtomicIter", "structutil_1_1iter_1_1AtomicIter.html", null ],
+        [ "GroupIter", "structutil_1_1iter_1_1GroupIter.html", null ],
+        [ "IOBuffer", "structutil_1_1iter_1_1IOBuffer.html", null ],
+        [ "Iter", "structutil_1_1iter_1_1Iter.html", null ]
+      ] ],
+      [ "mem", null, [
+        [ "Adr", "structutil_1_1mem_1_1Adr.html", null ],
+        [ "MemCache", "structutil_1_1mem_1_1MemCache.html", null ],
+        [ "MemChunk", "structutil_1_1mem_1_1MemChunk.html", null ],
+        [ "MemPool", "structutil_1_1mem_1_1MemPool.html", "structutil_1_1mem_1_1MemPool" ],
+        [ "MemPoolBank", "structutil_1_1mem_1_1MemPoolBank.html", null ],
+        [ "PairEquivalent", "structutil_1_1mem_1_1PairEquivalent.html", null ],
+        [ "PairEquivalent< unsigned int >", "structutil_1_1mem_1_1PairEquivalent_3_01unsigned_01int_01_4.html", null ],
+        [ "PairEquivalent< unsigned short >", "structutil_1_1mem_1_1PairEquivalent_3_01unsigned_01short_01_4.html", null ],
+        [ "PairPack", "structutil_1_1mem_1_1PairPack.html", null ],
+        [ "PoolQueue", "structutil_1_1mem_1_1PoolQueue.html", null ],
+        [ "PoolQueue< Adr< ADR_TYPE > >", "structutil_1_1mem_1_1PoolQueue_3_01Adr_3_01ADR__TYPE_01_4_01_4.html", null ],
+        [ "SimpleMemCache", "structutil_1_1mem_1_1SimpleMemCache.html", null ]
+      ] ],
+      [ "Stopwatch", "structutil_1_1Stopwatch.html", null ]
+    ] ],
+    [ "ArgTuple", "structArgTuple.html", null ],
+    [ "ArgTuple< HEAD, TAIL... >", "structArgTuple_3_01HEAD_00_01TAIL_8_8_8_01_4.html", null ],
+    [ "ArgTuple<>", "structArgTuple_3_4.html", null ],
+    [ "AsyncProgram", "classAsyncProgram.html", "classAsyncProgram" ],
+    [ "EventProgram", "classEventProgram.html", "classEventProgram" ],
+    [ "Future", "structFuture.html", null ],
+    [ "LazyLoad", "structLazyLoad.html", null ],
+    [ "OpReturnFilter", "structOpReturnFilter.html", null ],
+    [ "OpReturnFilter< RETURN, OpUnion< HEAD, TAIL... > >", "structOpReturnFilter_3_01RETURN_00_01OpUnion_3_01HEAD_00_01TAIL_8_8_8_01_4_01_4.html", null ],
+    [ "OpReturnFilter< RETURN, OpUnion<> >", "structOpReturnFilter_3_01RETURN_00_01OpUnion_3_4_01_4.html", null ],
+    [ "OpType", "structOpType.html", null ],
+    [ "OpType< RETURN(*)(ARGS...) >", "structOpType_3_01RETURN_07_5_08_07ARGS_8_8_8_08_01_4.html", null ],
+    [ "OpUnion", "structOpUnion.html", null ],
+    [ "OpUnionAppend", "structOpUnionAppend.html", null ],
+    [ "OpUnionAppend< HEAD, OpUnion< TAIL... > >", "structOpUnionAppend_3_01HEAD_00_01OpUnion_3_01TAIL_8_8_8_01_4_01_4.html", null ],
+    [ "OpUnionLookup", "structOpUnionLookup.html", null ],
+    [ "OpUnionLookup< QUERY, OpUnion< HEAD, TAIL... > >", "structOpUnionLookup_3_01QUERY_00_01OpUnion_3_01HEAD_00_01TAIL_8_8_8_01_4_01_4.html", null ],
+    [ "OpUnionLookup< QUERY, OpUnion<> >", "structOpUnionLookup_3_01QUERY_00_01OpUnion_3_4_01_4.html", null ],
+    [ "OpUnionPair", "structOpUnionPair.html", null ],
+    [ "OpUnionPair< OpUnion< LEFT_HEAD, LEFT_TAIL... >, OpUnion< RIGHT_HEAD, RIGHT_TAIL... > >", "structOpUnionPair_3_01OpUnion_3_01LEFT__HEAD_00_01LEFT__TAIL_8_8_8_01_4_00_01OpUnion_3_01RIGHT__d3ce59fb922b6357fecb0e7cdaaac974.html", null ],
+    [ "OpUnionPair< OpUnion< LEFT_HEAD, LEFT_TAIL... >, OpUnion<> >", "structOpUnionPair_3_01OpUnion_3_01LEFT__HEAD_00_01LEFT__TAIL_8_8_8_01_4_00_01OpUnion_3_4_01_4.html", null ],
+    [ "OpUnionPair< OpUnion<>, OpUnion< RIGHT_HEAD, RIGHT_TAIL... > >", "structOpUnionPair_3_01OpUnion_3_4_00_01OpUnion_3_01RIGHT__HEAD_00_01RIGHT__TAIL_8_8_8_01_4_01_4.html", null ],
+    [ "OpUnionPair< OpUnion<>, OpUnion<> >", "structOpUnionPair_3_01OpUnion_3_4_00_01OpUnion_3_4_01_4.html", null ],
+    [ "Promise", "structPromise.html", "structPromise" ],
+    [ "PromiseEnum", "structPromiseEnum.html", null ],
+    [ "PromiseUnion", "unionPromiseUnion.html", null ],
+    [ "PromiseUnion< OpUnion< HEAD, TAIL... > >", "unionPromiseUnion_3_01OpUnion_3_01HEAD_00_01TAIL_8_8_8_01_4_01_4.html", "unionPromiseUnion_3_01OpUnion_3_01HEAD_00_01TAIL_8_8_8_01_4_01_4" ],
+    [ "PromiseUnion< OpUnion<> >", "unionPromiseUnion_3_01OpUnion_3_4_01_4.html", "unionPromiseUnion_3_01OpUnion_3_4_01_4" ],
+    [ "RemappingBarrier", "structRemappingBarrier.html", "structRemappingBarrier" ],
+    [ "Return", "structReturn.html", "structReturn" ],
+    [ "ReturnAdr", "structReturnAdr.html", null ],
+    [ "ReturnAdr< void >", "structReturnAdr_3_01void_01_4.html", null ],
+    [ "ReturnOp", "structReturnOp.html", null ],
+    [ "TaggedSemaphore", "structTaggedSemaphore.html", null ],
+    [ "UnitBarrier", "structUnitBarrier.html", "structUnitBarrier" ],
+    [ "VoidState", "structVoidState.html", null ],
+    [ "WorkArena", "structWorkArena.html", null ],
+    [ "WorkFrame", "structWorkFrame.html", null ],
+    [ "WorkLink", "structWorkLink.html", "structWorkLink" ],
+    [ "WorkPool", "structWorkPool.html", null ],
+    [ "WorkStack", "structWorkStack.html", null ],
+    [ "WorkStack< FRAME_TYPE, 0 >", "structWorkStack_3_01FRAME__TYPE_00_010_01_4.html", null ]
+];
